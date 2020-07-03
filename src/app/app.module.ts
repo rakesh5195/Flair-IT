@@ -17,8 +17,6 @@ import { FooterComponent } from './directives/footer/footer.component';
 import { LoginComponent } from './components/login/login.component';
 import { ForgotComponent } from './components/forgot/forgot.component';
 import { ProductsModule } from './modules/products/products.module';
-import { GeneralPipe } from './pipes/general.filter.pipe';
-import { dateFormatPipe } from './pipes/date.filter.pipe';
 import {NgxPaginationModule} from 'ngx-pagination'; 
 import { ToastrModule } from 'ngx-toastr';
 
@@ -38,8 +36,6 @@ import { ToastrModule } from 'ngx-toastr';
     SimpleLayoutComponent,
     ForgotComponent,
     LoginComponent,
-    GeneralPipe,
-    dateFormatPipe
   ],
   imports: [
     BrowserModule,
