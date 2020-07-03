@@ -1,0 +1,68 @@
+{
+    "users": [{
+            "id": 1,
+            "username": "Rakesh Yadav",
+            "age": 27,
+            "gender": "male",
+            "designation": "manager",
+            "email": "rakeshyadav@gmail.com",
+            "password": "123456789",
+            "mobile": "9854755555"
+        },
+        {
+            "id": 2,
+            "name": "Ravi Kumar",
+            "age": "28",
+            "designation": "software developer",
+            "email": "ravi@gmail.com",
+            "password": "123456789",
+            "mobile": "4981351515"
+        },
+        {
+            "id": 3,
+            "name": "Kajal",
+            "age": "33",
+            "designation": "Human Resource",
+            "email": "kajal@gmail.com",
+            "password": "123456789",
+            "mobile": "4981351515"
+        }
+    ],
+    "products": [{
+            "id": 5,
+            "name": "chicken lolipop",
+            "type": "food",
+            "color": "brown",
+            "stock_unit": "2",
+            "sku": "3232156",
+            "addon": "spicy"
+        },
+        {
+            "id": 7,
+            "name": "Burger",
+            "type": "junk-food",
+            "color": "-",
+            "stock_unit": "10",
+            "sku": "2310315",
+            "addon": "salty plain"
+        },
+        {
+            "id": 8,
+            "name": "Shirt",
+            "type": "cotton",
+            "color": "yellow",
+            "stock_unit": "12",
+            "sku": "0210202",
+            "addon": "-"
+        },
+        {
+            "id": 9,
+            "name": "Chair",
+            "type": "wood",
+            "color": "brown",
+            "stock_unit": "12",
+            "sku": "02132132",
+            "addon": "spicy"
+        }
+    ]
+}
